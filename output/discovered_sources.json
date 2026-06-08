@@ -1,0 +1,30 @@
+[
+  {
+    "name": "MahanKenway/Freedom-V2Ray (auto)",
+    "url": "https://raw.githubusercontent.com/MahanKenway/Freedom-V2Ray/main/configs/mix_sub.txt",
+    "type": "raw",
+    "stars": 70,
+    "configs_found": 1687
+  },
+  {
+    "name": "MahanKenway/Freedom-V2Ray (auto)",
+    "url": "https://raw.githubusercontent.com/MahanKenway/Freedom-V2Ray/main/configs/trojan_sub.txt",
+    "type": "raw",
+    "stars": 70,
+    "configs_found": 269
+  },
+  {
+    "name": "MahanKenway/Freedom-V2Ray (auto)",
+    "url": "https://raw.githubusercontent.com/MahanKenway/Freedom-V2Ray/main/configs/vless.txt",
+    "type": "raw",
+    "stars": 70,
+    "configs_found": 217
+  },
+  {
+    "name": "MahanKenway/Freedom-V2Ray (auto)",
+    "url": "https://raw.githubusercontent.com/MahanKenway/Freedom-V2Ray/main/configs/ss_sub.txt",
+    "type": "raw",
+    "stars": 70,
+    "configs_found": 181
+  }
+]

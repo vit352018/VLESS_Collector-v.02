@@ -1,0 +1,50 @@
+{
+  "updated_utc": "2026-06-08T08:03:33.700530+00:00",
+  "updated_msk": "2026-06-08T11:03:33.648593+03:00",
+  "total_working": 816,
+  "tls_confirmed": 526,
+  "by_protocol": {
+    "vless": 685,
+    "vmess": 81,
+    "trojan": 33,
+    "hysteria": 0,
+    "ss": 17,
+    "other": 0,
+    "ru_bypass": 488
+  },
+  "latency": {
+    "min_ms": 1,
+    "avg_ms": 254,
+    "max_ms": 3314,
+    "p50_ms": 174,
+    "p90_ms": 494
+  },
+  "top_countries": {
+    "Canada": 135,
+    "Germany": 102,
+    "Unknown": 81,
+    "United States": 80,
+    "Russia": 70,
+    "Netherlands": 36,
+    "The Netherlands": 32,
+    "United Kingdom": 29,
+    "Italy": 26,
+    "France": 24,
+    "Hong Kong": 20,
+    "Japan": 20,
+    "Poland": 20,
+    "Iran": 16,
+    "Singapore": 13
+  },
+  "files": {
+    "VLESS_WORKING.txt": 816,
+    "RU_BYPASS.txt": 488,
+    "VLESS_ONLY.txt": 685,
+    "VMESS_ONLY.txt": 81,
+    "TROJAN_ONLY.txt": 33,
+    "SS_ONLY.txt": 17,
+    "TOP50.txt": 50,
+    "TOP50_RELIABLE.txt": 50
+  },
+  "raw_base": "https://raw.githubusercontent.com/vit352018/VLESS_Collector-v.02/main/output"
+}
